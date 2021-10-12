@@ -9,7 +9,7 @@ The Linux commands for performing different tasks is detailed in the **LinuxComm
 
 ### Download Multiple SRA files
 
-To download multiple sra files the best option is to use **`prefetch`** command. Install **sratoolkit** and export the bin to your PATH. Download or make a list of all the Accession ID - SRR ID's you want to download and save it as **SRRid.txt** in your working directory.  
+To download multiple sra files the best option is to use **`prefetch`** command. Install **sratoolkit** and export the bin to your PATH. Download or make a list of all the Accession ID - SRR ID's you want to download and save it as **SRRid.txt** in your working directory.  Download the **`SRRdownload.sh`** and change the permission to make it executable using `chmod +x SRRdownload.sh`. Then execute the file using **`./SRRdownload.sh`**. Enjoy!!
 
 
 
